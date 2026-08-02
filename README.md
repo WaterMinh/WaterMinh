@@ -1,6 +1,6 @@
 # Hi there, I'm To Minh Ly 👋
 
-Fourth-year Computer Science student at Yuan Ze University, interested in backend development, automation, database systems, AI integration, and smart manufacturing.
+Fourth-year Computer Science Student at Yuan Ze University, interested in backend development, automation, database systems, AI integration, and smart manufacturing.
 
 I enjoy building practical software systems that combine APIs, databases, document processing, and AI to improve real-world workflows.
 
