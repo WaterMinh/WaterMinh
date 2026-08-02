@@ -1,21 +1,26 @@
-# Hi there, I'm To Minh Ly 👋
+# Hi, I'm To Minh Ly 👋
 
-Fourth-year Computer Science Student at Yuan Ze University, interested in backend development, automation, database systems, AI integration, and smart manufacturing.
+Fourth-year Department of Computer Science and Engineering (CSE) Student at Yuan Ze University, interested in backend development, automation, database systems, AI integration, and smart manufacturing.
 
 I enjoy building practical software systems that combine APIs, databases, document processing, and AI to improve real-world workflows.
 
 ## About Me
 
-- 🎓 Information Engineering student at Yuan Ze University
-- 💻 Interested in backend development and software automation
-- 🤖 Building AI-assisted applications with local and cloud-based LLMs
-- 🗄️ Experienced with relational databases and workflow-oriented systems
-- 🏭 Interested in smart manufacturing and industrial digitalization
-- 🌱 Currently improving my software engineering, system integration, and data application skills
+🎓 Fourth-year Computer Science student
 
-## Featured Projects
+💻 Passionate about backend systems and automation
 
-### AI Course Assistant
+🤖 Building AI-assisted software using local and cloud LLMs
+
+🗄️ Hands-on experience with relational database design and REST APIs
+
+🏭 Exploring smart manufacturing and industrial digitalization
+
+🌱 Currently improving my software engineering, system integration, and data application skills
+
+## ⭐ Featured Projects
+
+### 🤖 AI Course Assistant
 
 A locally hosted AI-powered learning platform with course-grounded chat, multilingual summaries, quiz generation, document processing, PDF export, and role-based course management.
 
@@ -25,7 +30,7 @@ A locally hosted AI-powered learning platform with course-grounded chat, multili
 
 ---
 
-### Hotel Management Database
+### 🏨 Hotel Management Database
 
 A MySQL-based hotel management database covering booking, payments, housekeeping, maintenance requests, stored procedures, triggers, views, constraints, and reporting workflows.
 
@@ -35,7 +40,7 @@ A MySQL-based hotel management database covering booking, payments, housekeeping
 
 ---
 
-### LINE OpenAI Chatbot
+### 💬 LINE OpenAI Chatbot
 
 A context-aware LINE chatbot with webhook-based messaging, per-user conversation history, OpenAI integration, RESTful history APIs, and Cloudflare Tunnel support.
 
@@ -45,7 +50,7 @@ A context-aware LINE chatbot with webhook-based messaging, per-user conversation
 
 ---
 
-### Smart File Organizer
+### 📂 Smart File Organizer
 
 A lightweight Python automation tool that scans a directory and organizes files into categorized folders based on their extensions.
 
@@ -59,9 +64,13 @@ A lightweight Python automation tool that scans a directory and organizes files 
 
 `Python` `C++` `SQL` `JavaScript`
 
-**Backend and Web**
+**Backend & Web**
 
-`FastAPI` `Flask` `REST API` `Jinja2`
+`FastAPI`
+`Flask`
+`REST API`
+`Jinja2`
+`SQLAlchemy`
 
 **Database**
 
@@ -87,21 +96,21 @@ A lightweight Python automation tool that scans a directory and organizes files 
 
 ## Education
 
-**Yuan Ze University**  
-Information Engineering  
+**🎓 Yuan Ze University**  
+Department of Computer Science and Engineering (CSE)
 Fourth-year undergraduate student
 
-Recent academic performance:
+### Academic Performance
 
-- Department rank: **9/150**
-- Semester average: **97/100**
-- Latest semester estimated average: **approximately 94/100**, pending official update
+- Department Ranking: **Top 6% (9 / 150)**
+- Best Semester Average: **97 / 100**
+- Latest Semester Average: **~94 / 100 (pending official update)**
 
 ## Languages
 
-- Vietnamese
-- English
-- Traditional Chinese
+- Vietnamese (Native)
+- English (Professional Working Proficiency)
+- Traditional Chinese (Intermediate)
 
 ## Contact
 
